@@ -18,3 +18,10 @@ You can use `npx` without global SAO
 ```
 sao chongupup/sao-three my-project
 ```
+
+### How to use
+
+```
+cd my-project
+npm start
+```
