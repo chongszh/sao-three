@@ -16,7 +16,7 @@ You can use `npx` without global SAO
 ### From git
 
 ```
-sao chongupup/sao-three my-project
+sao chongszh/sao-three my-project
 ```
 
 ### How to use
