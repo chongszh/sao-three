@@ -4,7 +4,7 @@
   "description": "Scaffold out a Three.js app",
   "main": "index.js",
   "dependencies": {
-    "three": "^0.110.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.4",
